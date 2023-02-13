@@ -1,6 +1,7 @@
 ---
 title: "Practice Activity 6"
 format: html
+author: "Diego, AJ, Cameron"
 editor: visual
 self-contained: true
 ---
