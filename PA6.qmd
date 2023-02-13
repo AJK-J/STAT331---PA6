@@ -1,5 +1,6 @@
 ---
 title: "Practice Activity 6"
+author: AJ K-J, Cameron An, Diego Krenz
 format: html
 editor: visual
 self-contained: true
